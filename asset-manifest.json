@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React__Markdown-Notes-App/static/css/main.acab5024.css",
+    "main.js": "/React__Markdown-Notes-App/static/js/main.a4a713ca.js",
+    "index.html": "/React__Markdown-Notes-App/index.html",
+    "main.acab5024.css.map": "/React__Markdown-Notes-App/static/css/main.acab5024.css.map",
+    "main.a4a713ca.js.map": "/React__Markdown-Notes-App/static/js/main.a4a713ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acab5024.css",
+    "static/js/main.a4a713ca.js"
+  ]
+}
